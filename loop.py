@@ -40,8 +40,4 @@ while True:
 
 # do something with the data
 print(data)
-- J adopts a customer-centric approach, placing the customer at the core of all his business activities. One invaluable lesson gleaned from working with him is his adeptness in establishing effective feedback loops, enabling a profound understanding of customer needs and challenges.
 
-- J demonstrates exceptional global awareness in the Robotic Process Automation (RPA) market, possessing an insightful grasp of market trends and identifying promising opportunities.
-
-- While J possesses a clear vision for the company's RPA initiatives, his drive occasionally outpaces the team's ability to keep up, highlighting the need for synchronization between his vision and the team's capabilities.
